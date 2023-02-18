@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(14, 139, 148);
+  
+}
+
+.art{
+    border: 3px solid;
+    padding: 20px;
+    margin: 25px;
+}
+
+.art1{
+    border-bottom: 3px solid rgb(203,155,161);
+    color: rgb(235, 98, 61);
+}
